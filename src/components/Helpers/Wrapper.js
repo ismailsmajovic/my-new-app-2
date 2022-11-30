@@ -1,7 +1,7 @@
-import React from "react";
+//import React from "react";
 
 const Wrapper =(props)=>{
     return props.children;
 } 
 
-export default Wrapper;
+export default Wrapper; 

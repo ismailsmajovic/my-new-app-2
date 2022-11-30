@@ -7,7 +7,7 @@
     cursor: pointer;
   }
   
-  .button:hover,
+  .button:hover, 
   .button:active {
     background: #741188;
     border-color: #741188;
